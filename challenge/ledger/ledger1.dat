@@ -1,0 +1,850 @@
+{
+    "Alice": [
+        {
+            "name": "Oswald",
+            "amount": -16
+        },
+        {
+            "name": "Ursula",
+            "amount": -20
+        },
+        {
+            "name": "Devon",
+            "amount": -10
+        },
+        {
+            "name": "Benjamin",
+            "amount": 34
+        },
+        {
+            "name": "Quentin",
+            "amount": 25
+        },
+        {
+            "name": "Lex",
+            "amount": 44
+        },
+        {
+            "name": "Gray",
+            "amount": -31
+        },
+        {
+            "name": "Zoe",
+            "amount": -96
+        },
+        {
+            "name": "Gray",
+            "amount": -32
+        },
+        {
+            "name": "Frankie",
+            "amount": -57
+        },
+        {
+            "name": "Ella",
+            "amount": 14
+        }
+    ],
+    "Benjamin": [
+        {
+            "name": "Gray",
+            "amount": -4
+        },
+        {
+            "name": "Valerie",
+            "amount": -67
+        },
+        {
+            "name": "Devon",
+            "amount": -65
+        },
+        {
+            "name": "Xavier",
+            "amount": 32
+        },
+        {
+            "name": "Rachel",
+            "amount": 22
+        },
+        {
+            "name": "Helen",
+            "amount": -47
+        },
+        {
+            "name": "Oswald",
+            "amount": -16
+        },
+        {
+            "name": "Theo",
+            "amount": 37
+        },
+        {
+            "name": "Alice",
+            "amount": -34
+        },
+        {
+            "name": "Lex",
+            "amount": 9
+        },
+        {
+            "name": "Quentin",
+            "amount": -24
+        },
+        {
+            "name": "Zoe",
+            "amount": 73
+        }
+    ],
+    "Claudia": [
+        {
+            "name": "Rachel",
+            "amount": 6
+        },
+        {
+            "name": "Frankie",
+            "amount": -19
+        },
+        {
+            "name": "Sera",
+            "amount": 39
+        },
+        {
+            "name": "Zoe",
+            "amount": -37
+        },
+        {
+            "name": "Peter",
+            "amount": -59
+        },
+        {
+            "name": "Zoe",
+            "amount": -42
+        },
+        {
+            "name": "Iggy",
+            "amount": 53
+        },
+        {
+            "name": "Valerie",
+            "amount": 50
+        },
+        {
+            "name": "Kelly",
+            "amount": 83
+        },
+        {
+            "name": "Frankie",
+            "amount": -26
+        }
+    ],
+    "Devon": [
+        {
+            "name": "Frankie",
+            "amount": 30
+        },
+        {
+            "name": "Kelly",
+            "amount": 29
+        },
+        {
+            "name": "Benjamin",
+            "amount": 65
+        },
+        {
+            "name": "Alice",
+            "amount": 10
+        },
+        {
+            "name": "Frankie",
+            "amount": 8
+        },
+        {
+            "name": "Oswald",
+            "amount": -21
+        },
+        {
+            "name": "Zoe",
+            "amount": -18
+        }
+    ],
+    "Ella": [
+        {
+            "name": "Yingtian",
+            "amount": -54
+        },
+        {
+            "name": "Valerie",
+            "amount": -18
+        },
+        {
+            "name": "Quentin",
+            "amount": 13
+        },
+        {
+            "name": "Alice",
+            "amount": -14
+        }
+    ],
+    "Frankie": [
+        {
+            "name": "Devon",
+            "amount": -30
+        },
+        {
+            "name": "Claudia",
+            "amount": 19
+        },
+        {
+            "name": "Devon",
+            "amount": -8
+        },
+        {
+            "name": "Yingtian",
+            "amount": 35
+        },
+        {
+            "name": "Claudia",
+            "amount": 26
+        },
+        {
+            "name": "Alice",
+            "amount": 57
+        }
+    ],
+    "Gray": [
+        {
+            "name": "Benjamin",
+            "amount": 4
+        },
+        {
+            "name": "Quentin",
+            "amount": -41
+        },
+        {
+            "name": "Lex",
+            "amount": -12
+        },
+        {
+            "name": "Quentin",
+            "amount": -29
+        },
+        {
+            "name": "Rachel",
+            "amount": -19
+        },
+        {
+            "name": "Quentin",
+            "amount": -53
+        },
+        {
+            "name": "Kelly",
+            "amount": 41
+        },
+        {
+            "name": "Quentin",
+            "amount": -46
+        },
+        {
+            "name": "Alice",
+            "amount": 31
+        },
+        {
+            "name": "Alice",
+            "amount": 32
+        }
+    ],
+    "Helen": [
+        {
+            "name": "Peter",
+            "amount": -3
+        },
+        {
+            "name": "Rachel",
+            "amount": 37
+        },
+        {
+            "name": "Juliana",
+            "amount": -34
+        },
+        {
+            "name": "Juliana",
+            "amount": -8
+        },
+        {
+            "name": "Lex",
+            "amount": -34
+        },
+        {
+            "name": "Benjamin",
+            "amount": 47
+        },
+        {
+            "name": "Manny",
+            "amount": -31
+        },
+        {
+            "name": "Juliana",
+            "amount": 6
+        },
+        {
+            "name": "Peter",
+            "amount": 20
+        },
+        {
+            "name": "Rachel",
+            "amount": -66
+        },
+        {
+            "name": "Sera",
+            "amount": 67
+        },
+        {
+            "name": "Quentin",
+            "amount": -22
+        },
+        {
+            "name": "Kelly",
+            "amount": 56
+        }
+    ],
+    "Iggy": [
+        {
+            "name": "Kelly",
+            "amount": 36
+        },
+        {
+            "name": "Theo",
+            "amount": -77
+        },
+        {
+            "name": "Claudia",
+            "amount": -53
+        },
+        {
+            "name": "Zoe",
+            "amount": -43
+        },
+        {
+            "name": "Kelly",
+            "amount": -15
+        },
+        {
+            "name": "Quentin",
+            "amount": -18
+        },
+        {
+            "name": "Peter",
+            "amount": 2
+        }
+    ],
+    "Juliana": [
+        {
+            "name": "Helen",
+            "amount": 34
+        },
+        {
+            "name": "Helen",
+            "amount": 8
+        },
+        {
+            "name": "Quentin",
+            "amount": 50
+        },
+        {
+            "name": "Helen",
+            "amount": -6
+        },
+        {
+            "name": "Theo",
+            "amount": -7
+        },
+        {
+            "name": "Yingtian",
+            "amount": 91
+        }
+    ],
+    "Kelly": [
+        {
+            "name": "Iggy",
+            "amount": -36
+        },
+        {
+            "name": "Oswald",
+            "amount": -50
+        },
+        {
+            "name": "Devon",
+            "amount": -29
+        },
+        {
+            "name": "Valerie",
+            "amount": 2
+        },
+        {
+            "name": "Lex",
+            "amount": -48
+        },
+        {
+            "name": "Oswald",
+            "amount": 12
+        },
+        {
+            "name": "Peter",
+            "amount": 61
+        },
+        {
+            "name": "Gray",
+            "amount": -41
+        },
+        {
+            "name": "Claudia",
+            "amount": -83
+        },
+        {
+            "name": "Theo",
+            "amount": 46
+        },
+        {
+            "name": "Iggy",
+            "amount": 15
+        },
+        {
+            "name": "Helen",
+            "amount": -56
+        }
+    ],
+    "Lex": [
+        {
+            "name": "Zoe",
+            "amount": -2
+        },
+        {
+            "name": "Zoe",
+            "amount": -35
+        },
+        {
+            "name": "Helen",
+            "amount": 34
+        },
+        {
+            "name": "Gray",
+            "amount": 12
+        },
+        {
+            "name": "Sera",
+            "amount": 42
+        },
+        {
+            "name": "Kelly",
+            "amount": 48
+        },
+        {
+            "name": "Benjamin",
+            "amount": -9
+        },
+        {
+            "name": "Alice",
+            "amount": -44
+        },
+        {
+            "name": "Valerie",
+            "amount": 25
+        }
+    ],
+    "Manny": [
+        {
+            "name": "Rachel",
+            "amount": 41
+        },
+        {
+            "name": "Xavier",
+            "amount": 19
+        },
+        {
+            "name": "Helen",
+            "amount": 31
+        },
+        {
+            "name": "Quentin",
+            "amount": -12
+        },
+        {
+            "name": "Xavier",
+            "amount": -38
+        }
+    ],
+    "Oswald": [
+        {
+            "name": "Alice",
+            "amount": 16
+        },
+        {
+            "name": "Kelly",
+            "amount": 50
+        },
+        {
+            "name": "Benjamin",
+            "amount": 16
+        },
+        {
+            "name": "Peter",
+            "amount": 16
+        },
+        {
+            "name": "Kelly",
+            "amount": -12
+        },
+        {
+            "name": "Peter",
+            "amount": -30
+        },
+        {
+            "name": "Devon",
+            "amount": 21
+        }
+    ],
+    "Peter": [
+        {
+            "name": "Helen",
+            "amount": 3
+        },
+        {
+            "name": "Claudia",
+            "amount": 59
+        },
+        {
+            "name": "Rachel",
+            "amount": 79
+        },
+        {
+            "name": "Oswald",
+            "amount": -16
+        },
+        {
+            "name": "Helen",
+            "amount": -20
+        },
+        {
+            "name": "Kelly",
+            "amount": -61
+        },
+        {
+            "name": "Oswald",
+            "amount": 30
+        },
+        {
+            "name": "Iggy",
+            "amount": -2
+        }
+    ],
+    "Quentin": [
+        {
+            "name": "Sera",
+            "amount": -29
+        },
+        {
+            "name": "Ursula",
+            "amount": 37
+        },
+        {
+            "name": "Gray",
+            "amount": 41
+        },
+        {
+            "name": "Xavier",
+            "amount": -26
+        },
+        {
+            "name": "Gray",
+            "amount": 29
+        },
+        {
+            "name": "Juliana",
+            "amount": -50
+        },
+        {
+            "name": "Gray",
+            "amount": 53
+        },
+        {
+            "name": "Xavier",
+            "amount": 25
+        },
+        {
+            "name": "Manny",
+            "amount": 12
+        },
+        {
+            "name": "Alice",
+            "amount": -25
+        },
+        {
+            "name": "Helen",
+            "amount": 22
+        },
+        {
+            "name": "Gray",
+            "amount": 46
+        },
+        {
+            "name": "Rachel",
+            "amount": 57
+        },
+        {
+            "name": "Benjamin",
+            "amount": 24
+        },
+        {
+            "name": "Ella",
+            "amount": -13
+        },
+        {
+            "name": "Iggy",
+            "amount": 18
+        }
+    ],
+    "Rachel": [
+        {
+            "name": "Manny",
+            "amount": -41
+        },
+        {
+            "name": "Claudia",
+            "amount": -6
+        },
+        {
+            "name": "Helen",
+            "amount": -37
+        },
+        {
+            "name": "Benjamin",
+            "amount": -22
+        },
+        {
+            "name": "Peter",
+            "amount": -79
+        },
+        {
+            "name": "Gray",
+            "amount": 19
+        },
+        {
+            "name": "Helen",
+            "amount": 66
+        },
+        {
+            "name": "Quentin",
+            "amount": -57
+        }
+    ],
+    "Sera": [
+        {
+            "name": "Quentin",
+            "amount": 29
+        },
+        {
+            "name": "Theo",
+            "amount": 32
+        },
+        {
+            "name": "Claudia",
+            "amount": -39
+        },
+        {
+            "name": "Ursula",
+            "amount": -47
+        },
+        {
+            "name": "Lex",
+            "amount": -42
+        },
+        {
+            "name": "Helen",
+            "amount": -67
+        }
+    ],
+    "Theo": [
+        {
+            "name": "Sera",
+            "amount": -32
+        },
+        {
+            "name": "Zoe",
+            "amount": -91
+        },
+        {
+            "name": "Xavier",
+            "amount": 79
+        },
+        {
+            "name": "Iggy",
+            "amount": 77
+        },
+        {
+            "name": "Ursula",
+            "amount": -14
+        },
+        {
+            "name": "Benjamin",
+            "amount": -37
+        },
+        {
+            "name": "Juliana",
+            "amount": 7
+        },
+        {
+            "name": "Kelly",
+            "amount": -46
+        },
+        {
+            "name": "Zoe",
+            "amount": 52
+        },
+        {
+            "name": "Zoe",
+            "amount": 10
+        }
+    ],
+    "Ursula": [
+        {
+            "name": "Quentin",
+            "amount": -37
+        },
+        {
+            "name": "Alice",
+            "amount": 20
+        },
+        {
+            "name": "Sera",
+            "amount": 47
+        },
+        {
+            "name": "Theo",
+            "amount": 14
+        },
+        {
+            "name": "Xavier",
+            "amount": 34
+        }
+    ],
+    "Valerie": [
+        {
+            "name": "Benjamin",
+            "amount": 67
+        },
+        {
+            "name": "Xavier",
+            "amount": 9
+        },
+        {
+            "name": "Kelly",
+            "amount": -2
+        },
+        {
+            "name": "Ella",
+            "amount": 18
+        },
+        {
+            "name": "Claudia",
+            "amount": -50
+        },
+        {
+            "name": "Lex",
+            "amount": -25
+        }
+    ],
+    "Xavier": [
+        {
+            "name": "Valerie",
+            "amount": -9
+        },
+        {
+            "name": "Theo",
+            "amount": -79
+        },
+        {
+            "name": "Benjamin",
+            "amount": -32
+        },
+        {
+            "name": "Quentin",
+            "amount": 26
+        },
+        {
+            "name": "Manny",
+            "amount": -19
+        },
+        {
+            "name": "Quentin",
+            "amount": -25
+        },
+        {
+            "name": "Ursula",
+            "amount": -34
+        },
+        {
+            "name": "Manny",
+            "amount": 38
+        }
+    ],
+    "Yingtian": [
+        {
+            "name": "Ella",
+            "amount": 54
+        },
+        {
+            "name": "Frankie",
+            "amount": -35
+        },
+        {
+            "name": "Juliana",
+            "amount": -91
+        }
+    ],
+    "Zoe": [
+        {
+            "name": "Lex",
+            "amount": 2
+        },
+        {
+            "name": "Theo",
+            "amount": 91
+        },
+        {
+            "name": "Lex",
+            "amount": 35
+        },
+        {
+            "name": "Claudia",
+            "amount": 37
+        },
+        {
+            "name": "Claudia",
+            "amount": 42
+        },
+        {
+            "name": "Iggy",
+            "amount": 43
+        },
+        {
+            "name": "Alice",
+            "amount": 96
+        },
+        {
+            "name": "Devon",
+            "amount": 18
+        },
+        {
+            "name": "Theo",
+            "amount": -52
+        },
+        {
+            "name": "Benjamin",
+            "amount": -73
+        },
+        {
+            "name": "Theo",
+            "amount": -10
+        }
+    ]
+}
