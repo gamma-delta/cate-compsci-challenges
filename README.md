@@ -1,15 +1,21 @@
-# Cate Compsci Challenges
+# Palindromes
+A palindrome is a word or sentence that reads the same backwards and forwards. Capitalization and spaces are not considered when reading a palindrome. Examples include:
+Race car, Sonos (Thanks Mr MacFarlane), Bob, madam
 
-Welcome to the CCC (Cate Compsci Challenges) repo! Every week we'll post a new challenge.
+Create a function that takes a word as an input. If it’s a palindrome, your function returns true. If not, it should return false. Your function must be able to handle cases with capitalization or with spaces. 
+Example
+````
+In:
+"Hello"
+Out:
+"False"
 
-To submit your response, send us your answer, along with any code you used, over email. You can email any one of us (but preferably CC all of us) at:
-- `joshua_park@cate.org`
-- `brandon_man@cate.org`
-- `cloris_cheng@cate.org`
-- `alex_kim@cate.org`
-
-You're free to complete these challenges with any programming language you please. If you complete the challenge with a compiled language, please send us the code _and_ the compiled executable. It doesn't matter what platform you build it for, we should be able to find someone who can run it. (If you don't understand what this means don't worry about it.)
-
-Each correct answer will earn you 1 entry into a raffle for a $20 gift card at the end of the trimester.
-
-Good luck.
+In:
+"Bob"
+Out:
+"True"
+````
+Data:
+```
+A Man, A Plan, A Canal – Panama
+```
