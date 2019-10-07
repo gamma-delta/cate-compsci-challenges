@@ -6,7 +6,7 @@ Eventually we'll be posting some bigger challenges that last longer than a week.
 
 The challenge is:
 
-Attached is a ledger showing logs of transactions. For example,
+Attached is a ledger showing logs of transactions encoded in [JSON](https://learnxinyminutes.com/docs/json/). For example,
 ```
 "Frankie": [
     {
