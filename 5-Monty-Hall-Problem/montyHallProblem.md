@@ -1,0 +1,2 @@
+# Monty Hall Problem:
+The Monty Hall Problem first game out of a game show called Let’s Make a Deal. The premise of the game is that there are 3 doors, 2 of which has a goat and 1 has a car. The player’s goal is to win a car. The player first chooses a door, Monty then knowingly reveals a door with a goat behind it (it cannot be the door the player chose). The player is then given the option to open the other door or choose to open their original door. Make a program that simulates this game.
