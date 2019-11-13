@@ -4,9 +4,9 @@ Hello! Welcome to the Cate Compsci Challenges repo (that's computer speak for "b
 
 Every week, we upload a new challenge. You have until the end of the trimester to submit a program that completes it to one of us. You can use any programming language you wish, but if you're a beginner it's probably worth looking up some Python tutorials. If you don't even know where to start, come to compsci lab! You'll (hopefully) have fun, and you'll be learning a very valuable skill.
 
-Each correct submission is worth one entry into a raffle. At the end of the trimester, we'll pull one lucky winner, who will receive for a $20 gift card to a place of your choice. (We could also just hand you a twenty but that's kind of weird.)
+Each correct submission is worth one entry into a raffle. At the end of the trimester, we'll pull one lucky winner, who will receive a $20 gift card to a place of your choice. (We could also just hand you a twenty but that's kind of weird.)
 
-If you decide to solve a challenge with a compiled language please make sure you can compile your solution to Windows and Mac. (If you don't know what this means, it doesn't apply to you, so don't sweat it!)
+If you decide to solve a challenge with a compiled language, please compile to Windows and Mac and send us the compiled executeables. (If you don't know what this means, it doesn't apply to you, so don't sweat it!)
 
 To enter a challenge, please email your submission to all of:
 - `brandon_man@cate.org`
